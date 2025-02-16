@@ -1,0 +1,37 @@
+/* Selector atributo */
+
+
+img[src$="png"]{
+
+    width: 100%;
+}
+
+
+/* Selector hijo descendiente */
+
+ul li{
+
+    color: red;
+}
+
+
+/* Selector hijo directo */
+
+ul > li{
+
+    color: red;
+}
+
+/* Selector adyacente */
+
+h1 + p{
+
+    color: red;
+}
+
+/* Selector generales */
+
+ul ~ li{
+
+    color: red;
+}

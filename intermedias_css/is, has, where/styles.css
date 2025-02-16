@@ -1,0 +1,9 @@
+section:has(.excluir){
+
+    background-color: black;
+}
+
+ul:has(+div){
+
+    background-color: black;
+}

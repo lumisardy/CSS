@@ -1,0 +1,43 @@
+
+.caja{
+
+    border: 3px solid #000;
+    margin: 10px;
+    position: relative;
+}
+
+.box{
+
+    
+    width: 100px;
+    background-color: orange;
+    height: 100px;
+    color: white;
+}
+
+.div_red{
+
+    
+    color: #fff;
+    background-color: red;
+    position: relative;
+    
+}
+
+.div_blue{
+
+    background-color: #00f;
+    position: absolute;
+    
+    top: 30px;
+    
+    
+}
+
+
+.div:first-child{
+
+    background-color: #f00;
+    
+   
+}

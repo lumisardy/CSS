@@ -1,0 +1,43 @@
+body{
+
+
+background-color: #0f0;
+
+}
+
+
+
+
+.box {
+
+    width: 100vw;
+    height: 200px;
+    margin: 20px;
+    
+    background-color: #000;
+    background-image: url("https://s1.elespanol.com/2017/07/14/ciencia/medio-ambiente/medio_ambiente_231238002_39634878_854x640.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    /* tambien se puede y es mejor */
+    background: url("https://s1.elespanol.com/2017/07/14/ciencia/medio-ambiente/medio_ambiente_231238002_39634878_854x640.jpg") top / cover fixed #6fa;
+
+}
+
+
+h2 {
+
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+
+}
+
+.opaco {
+
+height: 100%;
+width: 100%;
+background-color: #000a;
+}

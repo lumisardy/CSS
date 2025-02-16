@@ -1,0 +1,48 @@
+body {
+
+    margin: 0;
+}
+
+
+.box {
+    width: 300px;
+    
+    /* tambien esta el radial y el conic */
+    background: #e2e2e2e2;
+    margin:  auto;
+    margin-top: 50px;
+    box-shadow: 0 0px 50px 0px #0007;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    padding: 20px;
+    text-align: center;
+
+
+}
+
+h2{
+
+    color: #444;
+}
+
+p{
+
+    list-style: none;
+    text-align: justify;
+    line-height: 1.4;
+    font-size: 14px;
+    text-shadow: 0 0 30px #f00;
+
+
+
+}
+
+
+img {
+
+    width: 200px;
+    border-radius: 40%;
+    box-shadow: 0 0px 50px 1px #0007;
+
+    /* si tienes una imagen con fondo transparente por ekemplo una plabra puedes poner filter: dropshadow(y aqui las propiedades del shadow) */
+}

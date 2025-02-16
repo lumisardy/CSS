@@ -1,0 +1,24 @@
+div {
+
+    background: black;
+    width: 250px;
+    margin: auto;
+    text-align: center;
+
+
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 8px;
+
+}
+
+input{
+
+    margin: 5px;
+    border: none;
+    border-bottom: 1px solid greenyellow;
+    background-color: transparent;
+    color: greenyellow;
+
+}
